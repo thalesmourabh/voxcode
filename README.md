@@ -4,6 +4,8 @@
 
 ![VoxCode Logo](assets/VoxCodeLogo.png)
 
+![VoxCode Demo](assets/demo.gif)
+
 **Speak Portuguese. Code in English. Save Tokens.**
 *Fale em Português. Code em Inglês. Economize Tokens.*
 
