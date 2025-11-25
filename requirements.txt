@@ -1,0 +1,21 @@
+pynput
+sounddevice
+soundfile
+pyaudio
+numpy
+google-genai
+python-dotenv
+websockets
+
+# Text injection
+pyautogui
+
+# UI
+pillow
+
+# Whisper (local transcription)
+openai-whisper
+
+# Optional AI Providers (install as needed)
+# openai>=1.0.0          # For OpenAI and Azure providers
+# anthropic>=0.18.0      # For Claude provider
